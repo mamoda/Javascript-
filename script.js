@@ -1,3 +1,4 @@
+// Author Mahmoud Attia
 // Get menu and play button elements
 let menu = document.getElementById("menu");
 let playButton = document.getElementById("playButton");
